@@ -1,5 +1,39 @@
 /* Your Website Styles */
+body {
+	background: url(http://www.hdbackgroundspoint.com/wp-content/uploads/2014/01/07/i7i7.jpeg);
+}
 
+
+h1 {
+	text-align: center;
+	font-size: 42px;
+}
+
+h1,
+h2,
+h3 {
+	font-family: 'Kameron', serif;
+	font-style: bold;
+}
+
+h1,
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-decoration: underline;
+}
+
+
+
+p {
+	font-family: 'Istok Web', sans-serif;
+}
+
+ul {
+	font-family: 'Istok Web', sans-serif;
+}
 
 /* Show Grid */
 .showgrid {
