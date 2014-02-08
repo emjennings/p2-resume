@@ -1,8 +1,17 @@
 /* Your Website Styles */
 body {
 	background: url(http://www.hdbackgroundspoint.com/wp-content/uploads/2014/01/07/i7i7.jpeg);
+	color: yellow;
 }
 
+table {
+	background: yellow;
+	box-shadow: 0 0 5px 2px yellow;
+	border-radius: 23px;
+	width: 390px;
+	color: black;
+
+}
 
 h1 {
 	text-align: center;
