@@ -1,17 +1,33 @@
 /* Your Website Styles */
 body {
-	background: url(http://www.hdbackgroundspoint.com/wp-content/uploads/2014/01/07/i7i7.jpeg);
+	background: url(http://th05.deviantart.net/fs70/PRE/i/2012/089/7/3/gray_website_background_by_maruron-d4ugudv.jpg);
 	color: yellow;
 }
 
-table {
-	background: yellow;
-	box-shadow: 0 0 5px 2px yellow;
-	border-radius: 23px;
-	width: 390px;
-	color: black;
-
+#info {
+	list-style: none;
+	margin: 30px 10px 30px 10px;
+	width: 900px;
+	height: 45px;
+	padding: 0 20px 0 20px;
+	color: rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
 }
+
+#info li {
+	float: left;
+	margin: 0 5px 0 10px;
+	padding: 0 15px 0 0;
+	border-right: 3px solid;
+	line-height: 45px;
+    position: relative;
+    text-align: center;
+}
+
+#name {
+	font-size: 35px;
+}
+
 
 h1 {
 	text-align: center;
