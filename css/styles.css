@@ -1,31 +1,47 @@
 /* Your Website Styles */
 body {
-	background: url(http://th05.deviantart.net/fs70/PRE/i/2012/089/7/3/gray_website_background_by_maruron-d4ugudv.jpg);
-	color: yellow;
+	background: url(http://www.lewallpaper.com/newresolution/1920x1440-more-tumblr-backgrounds-for-guys-light-gray.jpg);
+	color: black;
+}
+
+header {
+	background: #FFFCCC;
+	width: 700px;
+	height: 50px;
+	margin: 5px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 5px;
 }
 
 #info {
 	list-style: none;
 	margin: 30px 10px 30px 10px;
-	width: 900px;
+	width: 1000px;
 	height: 45px;
 	padding: 0 20px 0 20px;
 	color: rgba(0,0,0,0.6);
-    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+	text-shadow: -1px 0px 0px gray;
+
 }
 
 #info li {
 	float: left;
 	margin: 0 5px 0 10px;
 	padding: 0 15px 0 0;
-	border-right: 3px solid;
-	line-height: 45px;
+	line-height: 50px;
     position: relative;
     text-align: center;
 }
 
 #name {
 	font-size: 35px;
+}
+.background {
+	background: #FFFCCC;
+	padding: 5px 5px 5px 5px;
+	border-radius: 10px;
+	box-shadow: 0 0 10px 5px;
+	margin-bottom: 20px;
 }
 
 
@@ -39,6 +55,8 @@ h2,
 h3 {
 	font-family: 'Kameron', serif;
 	font-style: bold;
+	color: rgba(0,0,0,0.6);
+	text-shadow: -1px 0px 0px gray;
 }
 
 h1,
